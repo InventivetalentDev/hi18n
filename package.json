@@ -1,5 +1,5 @@
 {
-  "name": "hi18n",
+  "name": "@inventivetalent/hi18n",
   "description": "Simple HTML localisation, loading translations from json files",
   "version": "1.0.0",
   "main": "dist/index.js",
