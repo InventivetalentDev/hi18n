@@ -2,9 +2,11 @@
 
 HTML internationalization  
 
-Uses the HTML tag's original text content as keys for loading translations from json files.
+Uses the HTML tag's original text content as keys for loading translations from json files.  
+  
 
 
+Demo: https://inventivetalent.org/hi18n-test/
 ```html
 <html>
     <body>
