@@ -10,8 +10,8 @@
   "scripts": {
     "clean": "rm -rf dist",
     "compile": "tsc -p tsconfig.json",
-    "build": "npm run clean && npm run compile",
-    "pack": "webpack"
+    "pack": "webpack",
+    "build": "npm run clean && npm run compile && npm run pack"
   },
   "author": "Haylee Schäfer",
   "license": "MIT",
