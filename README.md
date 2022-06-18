@@ -4,7 +4,9 @@ HTML internationalization
 
 Uses the HTML tag's original text content as keys for loading translations from json files.  
   
-
+```
+npm i hi18n
+```
 
 Demo: https://inventivetalent.org/hi18n-test/
 ```html
